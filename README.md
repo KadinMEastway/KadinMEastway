@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kadin and I'm a Web Developer based in Michigan, USA</p>
+<p align="left">My name is Kadin and I'm a Software Engineer based in Michigan, USA</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Handcrafting software bugs since 2021<br>📚 I'm currently learning C# and Microsoft Blazor for work, as well as TypeScript and React for side projects<br>🎯 Goals: Use Deno in place of Node.js, finish my nvim config (I won't), and learn through failure (I will)<br>🎲 Fun facts: [...funFactArray]</p>
+<p align="left">✨ Handcrafting software bugs since 2021<br>📚 I'm currently learning C# and Microsoft Blazor for work, as well as TypeScript and React for side projects<br>🎯 Goals: Use Deno in place of Node.js, finish my nvim config, and learn through failure</p>
 
 ###
 
