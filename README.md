@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Handcrafting software bugs since 2021<br>📚 I'm currently learning C# and Microsoft Blazor for work, as well as TypeScript and React for side projects<br>🎯 Goals: Use Deno in place of Node.js, finish my nvim config, and learn through failure</p>
+<p align="left">✨ Handcrafting software bugs since 2021<br>📚 I'm currently learning C# and Microsoft Blazor for work, as well as TypeScript and React for side projects<br>🎯 Goals: Use better tools (Deno in place of Node.js), optimize my development process (complete a nvim config), and provide long-term solutions to problems through software</p>
 
 ###
 
